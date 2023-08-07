@@ -21,8 +21,8 @@ const Home = () => {
         </ul>
         <ul className="absolute left-[100px] text-sm text-gray-500">
           <li className="mt-[18px]">Пн</li>
-          <li className="mt-[16px]">Ср</li>
-          <li className="mt-[16px]">Пт</li>
+          <li className="mt-[22px]">Ср</li>
+          <li className="mt-[20px]">Пт</li>
         </ul>
         <ContributionGraph />
         <div className="mt-5 flex items-center text-[12px]">
